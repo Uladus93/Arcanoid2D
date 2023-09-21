@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f148639e69841047aeebf0db6b0dd6f, type: 3}
+  m_Name: OrangeBlock
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: -1038027267, guid: 8c9347727553871408e25d2ddbfaf7bd, type: 3}
+  BaseColor: {r: 0.8490566, g: 0.5886154, b: 0.1481844, a: 1}
+  Score: 5

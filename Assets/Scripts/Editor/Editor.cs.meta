@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b8235b77a6a642844a5f0355ace2102b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _redBlock: {fileID: 2800000, guid: 00b968a7c284a654c9574cac7ffd1406, type: 3}
+  - _orangeBlock: {fileID: 2800000, guid: 04e990f64e895e744ba499fb789cba75, type: 3}
+  - _yellowBlock: {fileID: 2800000, guid: 11183f2e81096c3489cc7b157c1ccaa7, type: 3}
+  - _greenBlock: {fileID: 2800000, guid: be4c4d0e7c335c6419fe8d8f65295cd2, type: 3}
+  - _whiteBlueBlock: {fileID: 2800000, guid: 4b30958b6291216419405c33f960e909, type: 3}
+  - _blueBlock: {fileID: 2800000, guid: b32051b23123584428f9fa5c832f2c28, type: 3}
+  - _purpleBlock: {fileID: 2800000, guid: 579704e73d1f6a14c9dfc0858bddd171, type: 3}
+  - _stone: {fileID: 2800000, guid: 64fe0aab7d373f14085807892e77bdf1, type: 3}
+  - _redBlockData: {fileID: 11400000, guid: 99b3b0c88d9004d4dae65e9a41c754c4, type: 2}
+  - _orangeBlockData: {fileID: 11400000, guid: 0b7db53587c0eb84795ed6247674ff1d, type: 2}
+  - _yellowBlockData: {fileID: 11400000, guid: c98522356dabd2040aabfb30abf77b1b, type: 2}
+  - _greenBlockData: {fileID: 11400000, guid: 883688f4d03b12a46b81b45ccfc03812, type: 2}
+  - _whiteBlueBlockData: {fileID: 11400000, guid: ab5470ba56e0df34a94da710897ebb56, type: 2}
+  - _blueBlockData: {fileID: 11400000, guid: f3e1315bef1580d4883c3724964b76b7, type: 2}
+  - _purpleBlockData: {fileID: 11400000, guid: 9cf04add05ac8c74788a99ba8854f3c4, type: 2}
+  - _stoneData: {fileID: 11400000, guid: 54c613da120129b4aa867d64c2d0e5d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
